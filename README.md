@@ -1,6 +1,11 @@
 # Real-Time-Bus-Tracker
+<img src= "Map.png" />
+
+## Description of Project
 This is an exercise to show the bus stops between MIT and Harvard's campuses through an animated pin pausing at each location, briefly.
 How to Run: In order to run this file, download all the files to a singular location. Open a browser window and drag the index.html file to the window and begin interacting with the code. Roadmap: Currently, there are no intentions to improve or revisit this project, however, you coud edit the code to feature the bus route of another city, change the style of the animated pin, etc.
+
+## License Information
 LICENSE: MIT License
 
 Copyright (c) 2020 John Williams
